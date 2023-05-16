@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create New Banner Now",
+      "details": "Create New Banner Now",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing Email",
+      "details": "Make Marketing Email",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Writing Scripts for YouTube Videos NOW",
+      "details": "Writing Scripts for YouTube Videos NOW",
+      "complete": false
+    },
+    {
+      "title": "Complete the Remaining Coding Project",
+      "details": "Complete the Remaining Coding Project",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
